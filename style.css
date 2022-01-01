@@ -140,3 +140,10 @@ header {
 	border-style: solid;
 	cursor: pointer;
 }
+
+footer {
+	text-align: center;
+	background-color: #1f2937;
+	color: #e5e7eb;
+	padding: 10px 0px;
+}
