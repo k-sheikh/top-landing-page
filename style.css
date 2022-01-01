@@ -62,3 +62,34 @@ header {
 	width: 400px;
 	height: 220px;
 }
+
+.information {
+	text-align: center;
+	padding: 10px 50px 50px 50px;
+}
+
+.information h2 {
+	font-size: 36px;
+	font-weight: 800;
+	color: #1f2937;
+	margin-bottom: 30px;
+}
+
+.image-boxes {
+	display: flex;
+	justify-content: center;
+	gap: 30px;
+}
+
+.image-boxes img {
+	height: 150px;
+	width: 150px;
+	border-radius: 20px;
+	border-color: #3882f6;
+	border-style: solid;
+}
+
+.image-boxes p {
+	margin-top: 5px;
+	width: 150px;
+}
